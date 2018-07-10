@@ -14,7 +14,7 @@ puts no_puppies(10)
 
 def less_puppies(numpups)
   if numpups < 3
-    "Good job"
+    "Good job, Rachel!"
   elsif numpups == 3
     "Slow down"
   else
