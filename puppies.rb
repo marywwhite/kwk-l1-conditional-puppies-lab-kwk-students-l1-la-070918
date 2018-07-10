@@ -28,7 +28,7 @@ puts less_puppies(10)
 
 def some_puppies(numpups,max)
   if numpups < 0.5*max
-    "Good job"
+    "Good job, Rachel!"
   else 
     "Get back on your puppy restriction"
   end
