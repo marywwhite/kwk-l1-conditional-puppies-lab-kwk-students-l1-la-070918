@@ -30,7 +30,7 @@ def some_puppies(numpups,max)
   if numpups < 0.5*max
     "Good job, Rachel!"
   else 
-    "Get back on your puppy restriction"
+    ""Get back to your animal goals!"
   end
 end
 
