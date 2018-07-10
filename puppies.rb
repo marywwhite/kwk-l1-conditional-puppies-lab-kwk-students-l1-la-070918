@@ -19,6 +19,7 @@ def less_puppies(numpups)
     "Slow down"
   else
     "Good job"
+  end
 end
 
 puts less_puppies(10)
@@ -30,6 +31,7 @@ def some_puppies(numpups,max)
     "Good job"
   else 
     "Get back on your puppy restriction"
+  end
 end
 
 puts some_puppies(10,20)
