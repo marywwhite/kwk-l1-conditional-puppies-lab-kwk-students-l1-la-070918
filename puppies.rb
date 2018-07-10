@@ -2,7 +2,7 @@
 
 def no_puppies(numpups)
   if numpups > 0 
-    "No more puppies!"
+    "Get back to your animal goals!"
   else 
     "Good job, Rachel!"
   end
