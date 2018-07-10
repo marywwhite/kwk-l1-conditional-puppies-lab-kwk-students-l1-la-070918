@@ -13,12 +13,12 @@ puts no_puppies(10)
 # 2. Rachel's animal accumulation has been going well and we're going to cut her some slack. Write a new method called less_puppies that takes in a number of puppies as an argument and tells Rachel good job when she gets less than 3 puppies, to slow down if she's found exactly 3 puppies, and to get back on her animal restriction if she gets more than 3 puppies.
 
 def less_puppies(numpups)
-  if numpups > 3
-    "Get back on your animal restriction"
+  if numpups < 3
+    "Good job"
   elsif numpups == 3
     "Slow down"
   else
-    "Good job"
+    "Get back on your animal restriction"
   end
 end
 
