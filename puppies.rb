@@ -4,7 +4,7 @@ def no_puppies(numpups)
   if numpups > 0 
     "No more puppies!"
   else 
-    "Well done Rachel"
+    "Well done, Rachel"
   end
 end
 
