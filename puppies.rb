@@ -41,11 +41,11 @@ puts some_puppies(5,20)
 
 def both_animals(puppies,cats)
   if puppies || cats == 0
-    "Get back to your animal goals"
-  else
     "Good job!"
+  else
+    "Get back to your animal goals!"
   end
 end
 
-puts both_animals(0,0)
+puts both_animals(5,0)
 
