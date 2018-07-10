@@ -4,7 +4,7 @@ def no_puppies(numpups)
   if numpups > 0 
     "goodjob if she sticks to her animal goals"
   else 
-    "Well done Rachel"
+    "get back to her animal goals if she gets any puppies"
   end
 end
 
